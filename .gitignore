@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+tests/
+
+.reddit_browser_profile/
+.reddit_diagnostics/
+.reddit_work/
+.selenium_cache/
+
+*.csv
+*.progress.json
+*.tmp
