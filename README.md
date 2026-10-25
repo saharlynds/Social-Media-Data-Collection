@@ -14,4 +14,6 @@ Jupyter notebooks that collect Persian text from social media platforms and foru
 
 `Reddit_DataCollection5.ipynb` searches Reddit comments for each lexicon word with Selenium and keeps up to three Persian comments per word.
 
+`Steam_DataCollection6.ipynb` collects the reviews, discussion posts and comments of the Steam pages listed in `steam_links.txt` and keeps the Persian texts.
+
 Collected data is not included in this repository.
